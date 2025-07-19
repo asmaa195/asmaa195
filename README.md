@@ -8,7 +8,7 @@ I’m a passionate software tester.
 - Automation Testing using Selenium WebDriver
 - Writing test cases and bug reports
 - Java & TestNG in test automation
-- 📫 How to reach me: asmaahamdy88@gmail.com /[LinkedIn](https://www.linkedin.com/in/asmaa-hamdy-4b7850335)
-- ⚡ Fun fact:  I love transforming user actions into clean, maintainable test scripts — and catching bugs before users do 😄
+- 📫 How to reach me: asmaahamdy88@gmail.com /[LinkedIn](https://www.linkedin.com/in/asmaa-hamdy-qa/)
+- -⚡ Fun fact:  I love transforming user actions into clean, maintainable test scripts — and catching bugs before users do 😄
 
 
